@@ -11,7 +11,7 @@ import urllib.parse
 import sys
 from collections import deque
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(".env")
 
 # --- PyQt5 IMPORTS FOR CURSOR OVERLAY ---
 try:
