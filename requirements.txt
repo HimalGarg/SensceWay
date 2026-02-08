@@ -6,3 +6,4 @@ numpy
 twilio
 PyQt5
 pynput
+python-dotenv

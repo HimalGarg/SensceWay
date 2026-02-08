@@ -10,6 +10,8 @@ import time
 import urllib.parse
 import sys
 from collections import deque
+from dotenv import load_dotenv
+load_dotenv()
 
 # --- PyQt5 IMPORTS FOR CURSOR OVERLAY ---
 try:
