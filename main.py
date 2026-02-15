@@ -578,7 +578,7 @@ if __name__ == '__main__':
     # Start keyboard listener for calibration
     threading.Thread(target=keyboard_listener, daemon=True).start()
     
-    # Run Flask in a background thread
+    # Run Flask in a background thread+
     threading.Thread(target=lambda: app.run(port=5000, debug=False, use_reloader=False), daemon=True).start()
     
     time.sleep(2)

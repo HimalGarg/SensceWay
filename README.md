@@ -1,6 +1,6 @@
-# SenseWay v
+# OptiKinesis v
 
-SenseWay is an assistive technology tool designed to empower users with limited motor control (e.g., ALS, Parkinson's) to interact with their computer using only eye movements and blinks.
+OptiKinesis is an assistive technology tool designed to empower users with limited motor control (e.g., ALS, Parkinson's) to interact with their computer using only eye movements and blinks.
 
 ## 🚀 Features
 
