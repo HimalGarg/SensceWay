@@ -1,4 +1,4 @@
-# OptiKinesis v
+# OptiKinesis
 
 OptiKinesis is an assistive technology tool designed to empower users with limited motor control (e.g., ALS, Parkinson's) to interact with their computer using only eye movements and blinks.
 
